@@ -1,5 +1,6 @@
 // Bioinformatics Course Info
 var bioinformatics = {
+    text: 'Bioinformatics',
     sections: {
       firstYear: {
           text: '1st Year',

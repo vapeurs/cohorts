@@ -1,5 +1,6 @@
 // Computer Science Course Info
 var computerScience = {
+    text: 'Computer Science',
     sections: {
         introductionToComputerScience: {
             text: 'Introduction To Computer Science',

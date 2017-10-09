@@ -1,5 +1,6 @@
 // Data Science Course Info
 var dataScience = {
+    text: 'Data Science',
     sections: {
         linearAlgebra: {
             text: 'Linear Algebra',
