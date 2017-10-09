@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Create A New Cohort</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.5.3/css/bulma.min.css">
+    <link rel="stylesheet" href="cohorts.css">
+  </head>
+
+  <body>
+    <section class="section">
+        <div class="container">
+            <div class="card">
+                <div class="card-content">
+                    <div class="content cohort-form">
+                        <img id="wordmark" src="http://i.imgur.com/kYYCXtC.png" alt="Open Source Society University (OSSU)">
+
+                        <h1>Create A New Cohort</h1>
+
+                        <p>Use this form to create a new cohort. This will bring you to Github where an issue with be created for your cohort. Once there are enough people signed up for your cohort, you can begin to work on your desired class. You can read more about being in a cohort <a href="https://github.com/ossu/cohorts">here</a>.</p>
+                                  
+                        <div class="field">
+                            <label class="label">Course</label>
+
+                            <div class="control">
+                                <div class="select">
+                                    <select id="course-selector">
+                                        <option>Select a course</option>
+                                        <option value="bioinformatics">Bioinformatics</option>
+                                        <option value="computerScience">Computer Science</option>
+                                        <option value="dataScience">Data Science</option>
+                                    </select>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="field">
+                                <label class="label">Section</label>
+    
+                                <div class="control">
+                                    <div class="select">
+                                        <select id="section-selector" disabled>
+                                            <option>Select a section</option>
+                                        </select>
+                                    </div>
+                                </div>
+                        </div>
+
+                        <div class="field">
+                            <label class="label">Class</label>
+
+                            <div class="control">
+                                <div class="select">
+                                    <select id="class-selector" disabled>
+                                        <option>Select a class</option>
+                                    </select>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="field">
+                            <div class="control">
+                                <label class="checkbox">
+
+                                <input type="checkbox">
+                                I agree to the <a href="https://github.com/ossu/code-of-conduct">code of conduct</a>
+                                </label>
+                            </div>
+                        </div>
+
+                        <div class="field is-grouped">
+                            <div class="control">
+                                <button class="button is-primary">Submit</button>
+                            </div>
+                            <div class="control">
+                                <button class="button is-link">Cancel</button>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <script src="./data/bioinformatics.js"></script>
+    <script src="./data/computer-science.js"></script>
+    <script src="./data/data-science.js"></script>
+    <script src="cohorts.js"></script>
+  </body>
+</html>

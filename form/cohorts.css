@@ -1,0 +1,20 @@
+body {
+    background: #17557F;
+    background: #328fce; /* Old browsers */
+    background: -moz-linear-gradient(-45deg, #328fce 0%, #17557f 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(-45deg, #328fce 0%,#17557f 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(135deg, #328fce 0%,#17557f 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#328fce', endColorstr='#17557f',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+}
+
+section {
+    width: 100vw;
+    height: 100vh;
+    overflow: scroll;
+}
+
+.cohort-form img#wordmark {
+    display: block;
+    margin: 0 auto;
+    max-width: 80%;
+}
