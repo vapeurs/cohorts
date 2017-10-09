@@ -49,17 +49,14 @@ If there is a class you are about to start, we encourage you to join a cohort th
 
 If there is a particular class you are starting and you have not found an existing cohort, then you can use our [cohort generator](https://ossu.github.io/cohorts/cohort-generator/index.html) to create a new Github issue, which will allow students to join you in your journey to educational development.
 
-# Community
+## Community
 
-- Subscribe to our [newsletter](https://tinyletter.com/ossu)
-- Subscribe to [/r/opensourcesociety](https://www.reddit.com/r/opensourcesociety/)!
-- Join us in our [group](https://groups.google.com/forum/#!forum/open-source-society-university)!
-- You can also interact through [GitHub issues](https://github.com/ossu/computer-science/issues).
-- We also have a chat room! [![Join the chat at https://gitter.im/open-source-society/computer-science](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/open-source-society/computer-science?utm_campaign=pr-badge&utm_content=badge&utm_medium=badge&utm_source=badge)
-- Add **Open Source Society University** to your [Facebook](https://www.facebook.com/ossuniversity) profile!
+- Subscribe to our [newsletter](https://tinyletter.com/ossu).
+- Use our [forum](https://github.com/ossu/forum) if you need some help.
+- You can also interact through [GitHub issues](https://github.com/open-source-society/cohorts/issues).
+- Add **Open Source Society University** to your [Linkedin](https://www.linkedin.com/school/11272443/) and [Facebook](https://www.facebook.com/ossuniversity) profile!
 
-> **PS**: A forum is an ideal way to interact with other students as we do not lose important discussions, which usually occur in communication via chat apps.
-**Please use our subreddit/group for important discussions**.
+> **ps**: A forum is an ideal way to interact with other students as we do not lose important discussions, which usually occur in communication via chat apps. **Please use our forum for important discussions**.
 
 ## Team
 
