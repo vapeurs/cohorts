@@ -124,10 +124,10 @@ document.addEventListener('DOMContentLoaded', function(event) {
       body += encodeURI(selectedCourse + ' / ' + selectedSection + ' / ' + classSelector.value + '\n\n');
       body += '%23%23' + encodeURI(' Coordinators (1/3)\n\n');
       body += encodeURI('- YOUR NAME HERE\n\n');
-      body += '%23%23' + encodeURI('Students (0/20)\n\n');
+      body += '%23%23' + encodeURI(' Students (0/20)\n\n');
       body += encodeURI('_We suggest a minimum of 5 students per cohort, with no more than 20_.\n\n');
       body += encodeURI('- Add students here\n\n');
-      body += '%23%23' + encodeURI('Start Date\n\n');
+      body += '%23%23' + encodeURI(' Start Date\n\n');
       body += encodeURI('_Choose a start date for your cohort. We suggest providing two weeks for other students to join._\n\n');
 
       var issueUrl = 'https://github.com/ossu/cohorts/issues/new?';
