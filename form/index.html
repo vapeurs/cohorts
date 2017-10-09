@@ -25,7 +25,7 @@
                             <label class="label">Course</label>
 
                             <div class="control">
-                                <div class="select">
+                                <div id="course-selector-container" class="select">
                                     <select id="course-selector">
                                         <option>Select a course</option>
                                         <option value="bioinformatics">Bioinformatics</option>
@@ -34,51 +34,55 @@
                                     </select>
                                 </div>
                             </div>
+
+                            <p id="course-selector-help" class="help is-danger"></p>
                         </div>
 
                         <div class="field">
-                                <label class="label">Section</label>
-    
-                                <div class="control">
-                                    <div class="select">
-                                        <select id="section-selector" disabled>
-                                            <option>Select a section</option>
-                                        </select>
-                                    </div>
+                            <label class="label">Section</label>
+
+                            <div class="control">
+                                <div id="section-selector-container" class="select">
+                                    <select id="section-selector" disabled>
+                                        <option>Select a section</option>
+                                    </select>
                                 </div>
+                            </div>
+
+                            <p id="section-selector-help" class="help is-danger"></p>
                         </div>
 
                         <div class="field">
                             <label class="label">Class</label>
 
                             <div class="control">
-                                <div class="select">
+                                <div id="class-selector-container" class="select">
                                     <select id="class-selector" disabled>
                                         <option>Select a class</option>
                                     </select>
                                 </div>
                             </div>
+
+                            <p id="class-selector-help" class="help is-danger"></p>
                         </div>
 
                         <div class="field">
-                            <div class="control">
+                            <div id="code-of-conduct-container" class="control">
                                 <label class="checkbox">
 
-                                <input type="checkbox">
+                                <input id="code-of-conduct-checkbox" type="checkbox">
                                 I agree to the <a href="https://github.com/ossu/code-of-conduct">code of conduct</a>
                                 </label>
                             </div>
+
+                            <p id="code-of-conduct-help" class="help is-danger"></p>
                         </div>
 
                         <div class="field is-grouped">
                             <div class="control">
-                                <button class="button is-primary">Submit</button>
-                            </div>
-                            <div class="control">
-                                <button class="button is-link">Cancel</button>
+                                <button id="submit" class="button is-primary">Submit</button>
                             </div>
                         </div>
-
                     </div>
                 </div>
             </div>
