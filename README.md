@@ -49,6 +49,10 @@ If there is a class you are about to start, we encourage you to join a cohort th
 
 If there is a particular class you are starting and you have not found an existing cohort, then you can use our [cohort generator](https://ossu.github.io/cohorts/cohort-generator/index.html) to create a new Github issue, which will allow students to join you in your journey to educational development.
 
+## Code of conduct
+
+[OSSU's code of conduct](https://github.com/ossu/code-of-conduct).
+
 ## Community
 
 - Subscribe to our [newsletter](https://tinyletter.com/ossu).
