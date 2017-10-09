@@ -45,9 +45,9 @@ We believe in collaboration and community, and cohorts are designed to encourage
 
 We want joining a cohort to be as easy as possible. 
 
-If there is a class you are about to start, we encourage you to join a cohort that already exists. You can take a look at our (Github issues)[https://github.com/ossu/cohorts/issues] to see if there are any upcoming cohorts that will be starting soon. You can also take a look through our Github repo to find a cohort that has already started.
+If there is a class you are about to start, we encourage you to join a cohort that already exists. You can take a look at our [Github issues](https://github.com/ossu/cohorts/issues) to see if there are any upcoming cohorts that will be starting soon. You can also take a look through our Github repo to find a cohort that has already started.
 
-If there is a particular class you are starting and you have not found an existing cohort, then you can use our (cohort generator)[https://ossu.github.io/cohorts/cohort-generator/index.html] to create a new Github issue, which will allow students to join you in your journey to educational development.
+If there is a particular class you are starting and you have not found an existing cohort, then you can use our [cohort generator](https://ossu.github.io/cohorts/cohort-generator/index.html) to create a new Github issue, which will allow students to join you in your journey to educational development.
 
 # Community
 
@@ -69,5 +69,4 @@ If there is a particular class you are starting and you have not found an existi
 
 ## Contributing
 
-If you are interested in contributing to OSSU Cohorts or the OSSU in general, please read our (contributor guidelines)[https://github.com/ossu/computer-science/blob/master/CONTRIBUTING.md];
-
+If you are interested in contributing to OSSU Cohorts or the OSSU in general, please read our [contributor guidelines](https://github.com/ossu/computer-science/blob/master/CONTRIBUTING.md).
