@@ -29,6 +29,7 @@
 
 - [Summary](#summary)
 - [Joining a Cohort](#joining-a-cohort)
+- [Code of Conduct](#code-of-conduct)
 - [Community](#community)
   - [Team](#team)
   - [Contributing](#contributing)
@@ -49,9 +50,9 @@ If there is a class you are about to start, we encourage you to join a cohort th
 
 If there is a particular class you are starting and you have not found an existing cohort, then you can use our [cohort generator](https://ossu.github.io/cohorts/cohort-generator/index.html) to create a new Github issue, which will allow students to join you in your journey to educational development.
 
-## Code of conduct
+## Code of Conduct
 
-[OSSU's code of conduct](https://github.com/ossu/code-of-conduct).
+[OSSU's Code of Conduct](https://github.com/ossu/code-of-conduct).
 
 ## Community
 
