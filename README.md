@@ -29,6 +29,9 @@
 
 - [Summary](#summary)
 - [Joining a Cohort](#joining-a-cohort)
+- [Cohort Roles](#cohort-roles)
+  - [Coordinator](#coordinator)
+  - [Student](#student)
 - [Code of Conduct](#code-of-conduct)
 - [Community](#community)
   - [Team](#team)
@@ -50,11 +53,23 @@ If there is a class you are about to start, we encourage you to join a cohort th
 
 If there is a particular class you are starting and you have not found an existing cohort, then you can use our [cohort generator](https://ossu.github.io/cohorts/cohort-generator/index.html) to create a new Github issue, which will allow students to join you in your journey to educational development.
 
-## Code of Conduct
+# Cohort Roles
+
+Within a cohort there are two possible roles you can take. You can be either a *coordinator* or a *student*. When joining a cohort, make sure you specify which role you'd like to take.
+
+## Coordinator
+
+Think of a coordinator like a teaching assistant. Your role is to help coordinate the work students are to do for any specific cohort. For instance, a coordinator is responsible for setting the pace of a cohort, organizing regular check-ins with the students, and providing any other help the students may need, within reason. As we develop the cohort program more, a coordinators responsibilities will become more structured.
+
+## Student
+
+As a student, it is your job to keep an open mind, and learn new things. Your main responsibility is to study your class at the pace set by the coordinator. You should reach out to your classmates to study together and help keep each other accountable. Most importantly, have fun!
+
+# Code of Conduct
 
 [OSSU's Code of Conduct](https://github.com/ossu/code-of-conduct).
 
-## Community
+# Community
 
 - Subscribe to our [newsletter](https://tinyletter.com/ossu).
 - Use our [forum](https://github.com/ossu/forum) if you need some help.
